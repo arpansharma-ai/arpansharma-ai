@@ -1,16 +1,20 @@
-## Hi there 👋
+ Hi, I'm Arpan Raj Sharma! 👋  
 
-<!--
-**arpansharma-ai/arpansharma-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI/ML Engineer | Python, TensorFlow, OpenCV**  
+💡 Passionate about AI, Deep Learning, and Automation  
+📂 Check out my AI/ML projects below 👇  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🎓 AI & ML Undergraduate at BMSCE  
+- 💻 Skilled in **Python, TensorFlow, OpenCV, NLP, and Deep Learning**  
+- 🌍 Exploring AI-driven **automation & freelancing**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Technologies  
+🔹 Python | TensorFlow | PyTorch | OpenCV | Scikit-learn  
+🔹 Machine Learning | Deep Learning | NLP | AI Automation  
+🔹 Flask | FastAPI | Git | SQL | Pandas  
+
+## 📫 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/arpan-ai)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpan-raj-sharma-586884355/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/arpanrajsharma)  
