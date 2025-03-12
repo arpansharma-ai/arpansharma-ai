@@ -15,6 +15,6 @@
 🔹 Flask | FastAPI | Git | SQL | Pandas  
 
 ## 📫 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/arpan-ai)  
+[[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/arpan-ai)  ](https://github.com/arpansharma-ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpan-raj-sharma-586884355/)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/arpanrajsharma)  
